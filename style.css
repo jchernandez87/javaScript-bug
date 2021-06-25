@@ -1,0 +1,14 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+
+.text {
+    font-weight: 600;
+    padding: 15px;
+    font-size: 30px;
+    color:red;
+}
